@@ -1,3 +1,5 @@
+> This case study has been folded into a combined portfolio repo: https://github.com/oreoluwadaniel/credit-risk-banking-portfolio. Kept here for history; the combined repo is the current version.
+
 # Enterprise Credit Portfolio Health Monitoring & NPL Intelligence Framework
 
 ## Project Overview
